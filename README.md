@@ -1,4 +1,4 @@
-##mobec data engineering test
+##modec data engineering test
 
 
 I used a docker-compose.yaml to run pyspark local, but this pipeline could easilly run at EMR using its notebook, or you can run as a pipeline using EMR cluster steps (bute code type should be script).
